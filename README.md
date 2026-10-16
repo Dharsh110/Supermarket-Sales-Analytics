@@ -48,11 +48,5 @@ An end-to-end Power BI dashboard built on a supermarket sales dataset (1,000 tra
 - **Cash** was the most-used payment method by sales value (₹112,206.57), closely followed by Ewallet (₹109,993.11).
 - Overall average customer rating: **6.97 / 10**.
 
-## 🚀 How to use
-
-1. Download `Sales Analysis  Dashboard.pbix`
-2. Open in **Power BI Desktop** (free download from Microsoft)
-3. Explore the interactive slicers, drill-through, and tooltips
-
 ---
-**Author:** Dharshini Vijayakumar
+**Author:** Dharshini V
